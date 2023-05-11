@@ -1,1 +1,20 @@
+User Manual
+
+
+Basic Gameplay Rules
+
+In rock paper scissors paper beats rock, rock beat scissors, and scissors beats paper.
+
+
+How to run and play program/game
+
+1.	Start the program.
+2.	Assess your choices of buttons if unable to read or view image well enough hover over the buttons before playing.
+3.	If you would like to choose rock as your choice press the button with the picture of the rock, it is the button to the far left.
+4.	If you would like to choose paper as your choice press the button with the picture of the piece of paper, it is the button second from the left.
+5.	If you would like to choose scissors as your choice press the button with the picture of the pair of scissors, it is the button second from the right.
+6.	Once chosen the computer will also choose either rock, paper, or scissors.
+7.	The program will compare the two choices and choose the winner. The game will say either computer wins, you win, or tie.
+8.	In the window with the rock, paper, scissor, and exit buttons there is also a tally for the total games scored. This tally goes up for each game played whether it is a win, a lose, or a tie.
+9.	If you would like to exit the game press the exit button the button on the right
 
